@@ -1,1 +1,1 @@
-# gitbranching
+# git branching notes
