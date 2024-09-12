@@ -17,4 +17,3 @@ Kinda just here.
 
 ## Random image
 ![Sky](raw-pixel.jpg)
->>>>>>> gitbranching-2
